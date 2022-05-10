@@ -2,8 +2,13 @@ Ever since I was a little kid, software development has been my passion. I still
 
 Throughout middle and high school, I latched on to any ideas for projects I could get, moving from "Hello World" all the way to a designing Web pages, with dozens of projects in between. I learnt HTML, CSS and then JavaScript, tearing through any books I could find remotely related to Web page designing. I was insatiable. This lead me to receive my First Runner Up for Web page designing Competition when I was in Grade 7.
 
-Coming from Civil Engineering family background, I forced myself to take Civil Engineering as my career. During those academic years, I did gain practical work experience as well. However, I wasn't satisfied with my choice. Therefore, I made a huge decision in my life and went back to University again and joined as Undergraduate student in Computing. I knew this time, I was following my passion and I studied very hard. Later on I passed with First Class Honours. 
+Coming from Civil Engineering family background, I forced myself to take Civil Engineering as my career. During those academic years, I did gain practical work experience as well. However, I wasn't satisfied with my choice. Therefore, I made a huge decision in my life and went back to University again and joined as an Undergraduate student in Computing. I knew this time, I was following my passion and studied new languages, algorithms, compilers, higher mathematics, all with pretty much the same fascination that drove me as a kid. And it was here that I learned truly how much there was yet to learn. So, now, in industry, this passion remains with me. There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful. 
 
-I studied new languages, algorithms, compilers, higher mathematics, all with pretty much the same fascination that drove me as a kid. And it was here that I learned truly how much there was yet to learn. So, now, in industry, this passion remains with me. There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful. Software engineering is a never ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world.
-
-My specialties include quickly learning new skills and programming languages, problem solving, responsive design principles, website optimization, and Model View Controller (MVC) methods of organizing code. So far I have JavaScript, HTML, CSS, SCSS, C#, Python, jQuery, Bootstrap, MEAN Stack and Git/GitHub under my belt. I've started learning ReactJs. I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding web in my head.
+Technical Skills:
+• Languages: C#, C++, JavaScript, Java, Python, PHP, HTML5, CSS3, SCSS, XML
+• Frameworks: AngularJS, ExpressJS, Blazor, Bootstrap, Entity Framework, .NET Core, .NET MVC5
+• Environments: Windows, Linux
+• Databases: MySQL, MariaDB, Oracle, SQL Server Management Studio, MongoDB
+• Version Control System: GIT and Azure DevOps
+• Confident in using Microsoft office package: Word, Excel, PowerPoint, Access, Visio
+• Other: Docker, Elasticsearch, Adobe Photoshop, Adobe XD, AutoCAD
