@@ -5,10 +5,17 @@ Throughout middle and high school, I latched on to any ideas for projects I coul
 Coming from Civil Engineering family background, I forced myself to take Civil Engineering as my career. During those academic years, I did gain practical work experience as well. However, I wasn't satisfied with my choice. Therefore, I made a huge decision in my life and went back to University again and joined as an Undergraduate student in Computing. I knew this time, I was following my passion and studied new languages, algorithms, compilers, higher mathematics, all with pretty much the same fascination that drove me as a kid. And it was here that I learned truly how much there was yet to learn. So, now, in industry, this passion remains with me. There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful. 
 
 Technical Skills:
+
 • Languages: C#, C++, JavaScript, Java, Python, PHP, HTML5, CSS3, SCSS, XML
+
 • Frameworks: AngularJS, ExpressJS, Blazor, Bootstrap, Entity Framework, .NET Core, .NET MVC5
+
 • Environments: Windows, Linux
+
 • Databases: MySQL, MariaDB, Oracle, SQL Server Management Studio, MongoDB
+
 • Version Control System: GIT and Azure DevOps
+
 • Confident in using Microsoft office package: Word, Excel, PowerPoint, Access, Visio
+
 • Other: Docker, Elasticsearch, Adobe Photoshop, Adobe XD, AutoCAD
